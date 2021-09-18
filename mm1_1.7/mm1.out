@@ -1,0 +1,29 @@
+Single-server queueing system
+
+Mean interarrival time      1.000 minutes
+
+Mean service time           0.500 minutes
+
+Number of customers          1000
+
+
+
+Average delay in queue      0.430 minutes
+
+Average number in queue     0.418
+
+Server utilization          0.460
+
+(a) Average number in system  :   0.878
+
+(b) Average total time in system  :   0.903 minutes
+
+(c) Max queue length  :   11
+
+(d) Max delay in queue  :   4.128 minutes
+
+(e) Max time in the system  :   4.549 minutes
+
+(f) Proportion of customers having a delay in queue in excess of 1 minute  :   0.162
+
+Time simulation ended    1027.915 minutes
